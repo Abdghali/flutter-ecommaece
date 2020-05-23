@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107591609822",
+    "firebase_url": "https://ecommarce-be3e1.firebaseio.com",
+    "project_id": "ecommarce-be3e1",
+    "storage_bucket": "ecommarce-be3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107591609822:android:1d0d32a2e2435a1940814f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107591609822-8e1p16p37d7d7j6rj0pm576lo7d6q6m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0FwJOfxDBY4OyDxPp0IxPkncpZfN35Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107591609822-8e1p16p37d7d7j6rj0pm576lo7d6q6m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
